@@ -1,4 +1,4 @@
-package problem_solving.datastructures.trie;
+package problem_solving.datastructures.java.trie;
 
 /**
  * https://leetcode.com/articles/implement-trie-prefix-tree/

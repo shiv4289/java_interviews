@@ -1,4 +1,4 @@
-package problem_solving.datastructures.trie;
+package problem_solving.datastructures.java.trie;
 
 
 /**
@@ -9,7 +9,7 @@ class TrieNode {
     // R links to node children
     private TrieNode[] links;
 
-    private final int R = 26;
+    private final int R = 26; // lowercase alphabest only
 
     private boolean isEnd;
 
